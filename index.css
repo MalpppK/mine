@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg {
+    background: #fff url(pictures_for_home/coc.jpg) no-repeat fixed center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    filter: brightness(50%);
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.box {
+    position: absolute;
+    border: 10px solid white;
+    width: 80%;
+    height: 80vh;
+    margin: 40px;
+}
+
+.just {
+    display: flex;
+    justify-content: center;
+}
