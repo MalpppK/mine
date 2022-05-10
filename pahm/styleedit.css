@@ -1,0 +1,217 @@
+body {
+    background-color: black;
+}
+
+.header {
+    position: sticky;
+}
+
+.logo {
+    max-width: 30%;
+    margin: 0 auto;
+    margin-top: 3%;
+    margin-left: 45%;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 700px;
+    margin-top: 50px;
+}
+
+.plam {
+    display: block;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.7);
+}
+
+.namep {
+    margin-top: 2%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.study {
+    display: block;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 35px;
+    text-transform: uppercase;
+    color: rgba(51, 51, 51, 0.7);
+}
+
+.fa-spotify {
+    width: 60%;
+}
+
+p.biop {
+    text-align: center;
+}
+
+.educ {
+    color: black;
+    display: block;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.hr {
+    width: 600px;
+    height: 60px;
+}
+
+.textkd {
+    color: black;
+    display: block;
+    font-size: 26px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.kindergarten {
+    display: block;
+    margin-top: 3%;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0);
+}
+
+.anub {
+    margin-top: 3%;
+    font-size: 25px;
+    text-align: center;
+}
+
+.textprim {
+    display: block;
+    margin-top: 5%;
+    color: black;
+    font-size: 26px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.primary {
+    display: block;
+    margin-top: 3%;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0);
+}
+
+.prim {
+    margin-top: 3%;
+    font-size: 25px;
+    text-align: center;
+}
+
+.textsec {
+    display: block;
+    color: black;
+    margin-top: 5%;
+    font-size: 26px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.secondary {
+    display: block;
+    max-width: 35%;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0);
+}
+
+.sec {
+    font-size: 25px;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.headskill {
+    color: black;
+    display: block;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.pyt {
+    display: block;
+    color: black;
+    font-size: 30px;
+    margin-top: 3%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.pytlogo {
+    display: block;
+    margin-top: 3%;
+    max-width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0);
+}
+
+.progress {
+    margin: 5%;
+    color: black;
+}
+
+.jv {
+    display: block;
+    color: black;
+    margin-top: 3%;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.jvlogo {
+    display: block;
+    margin-top: 3%;
+    max-width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0);
+}
+
+.html {
+    margin-top: 3%;
+    display: block;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.htmllogo {
+    display: block;
+    margin-top: 3%;
+    max-width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0);
+}
+
+body {
+    width: 100%;
+}
+
+.x {
+    display: flex;
+    justify-content: center;
+}
+
+.gotop {
+    right: 5px;
+    bottom: 5px;
+    position: fixed;
+}
